@@ -21,3 +21,4 @@ lab directory.
 - [CSAPP 3e Attack lab](http://blog.csdn.net/lijun538/article/details/50682387)
 - [Bufbomb Lab 缓冲区溢出攻击试验(Buffer Lab)](http://blog.sina.com.cn/s/blog_65eb367a0101exfa.html)
 - [bufbomb实验心得及详细步骤](http://blog.csdn.net/q1w2e3r4470/article/details/44976755)
+- [CSAPP实验四-缓冲区溢出实验bufbomb](http://m.blog.csdn.net/article/details?id=51500830)
